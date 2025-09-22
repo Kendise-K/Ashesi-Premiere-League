@@ -1,2 +1,2 @@
-# Ashesi-Premiere-League
-LAB 1 assignment for Cohort B
+# Lab1_Ashesi_Premier_League_42432028
+Kendise Quartey, 42432028, Lab 1
